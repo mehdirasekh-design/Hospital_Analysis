@@ -1,0 +1,13 @@
+﻿TreatmentID,TreatmentName,Category,BaseCharge,AvgMinutes
+TR01,Consultation,Outpatient,120,30
+TR02,Emergency Treatment,Emergency,650,90
+TR03,Cardiac Evaluation,Cardiology,900,75
+TR04,MRI Scan,Radiology,1100,60
+TR05,CT Scan,Radiology,750,45
+TR06,Physical Therapy,Orthopedics,220,60
+TR07,Minor Surgery,Surgery,1800,120
+TR08,Chemotherapy Session,Oncology,2400,180
+TR09,Dermatology Procedure,Dermatology,450,45
+TR10,Pediatric Consultation,Pediatrics,180,30
+TR11,Neurology Consultation,Neurology,350,45
+TR12,Ultrasound,Radiology,400,40

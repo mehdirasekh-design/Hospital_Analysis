@@ -1,0 +1,13 @@
+﻿DepartmentID,DepartmentName,DepartmentType
+D01,Emergency,Acute Care
+D02,Cardiology,Medical
+D03,Neurology,Medical
+D04,Orthopedics,Surgical
+D05,Pediatrics,Medical
+D06,Oncology,Medical
+D07,General Surgery,Surgical
+D08,Dermatology,Medical
+D09,Radiology,Diagnostic
+D10,Internal Medicine,Medical
+D11,Gynecology,Medical
+D12,ENT,Medical
